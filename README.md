@@ -19,10 +19,10 @@ This project demonstrates my expertise in:
 Healthcare organizations struggle to understand **screening participation trends** across diverse groups.
 
 Challenges include:  
-- ❌ No real-time visibility into screening participation  
-- ❌ Screening disparities due to **race, ethnicity, language, or geographic location**  
-- ❌ Unstructured data making reporting time-consuming  
-- ❌ Inability to identify **gaps for targeted outreach**  
+- No real-time visibility into screening participation  
+- Screening disparities due to **race, ethnicity, language, or geographic location**  
+- Unstructured data making reporting time-consuming  
+- Inability to identify **gaps for targeted outreach**  
 
 Lack of insights results in **inefficient resource allocation** and **lower screening completion rates**.
 
