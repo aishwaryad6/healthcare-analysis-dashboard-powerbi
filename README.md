@@ -1,4 +1,4 @@
-# 🏥 Healthcare Analysis Dashboard — Power BI
+# 🏥📊  Healthcare Analysis Dashboard — Power BI
 
 ## 📌 Project Overview  
 The **Healthcare Analysis Dashboard** provides a comprehensive view of **healthcare screening participation rates** across demographics such as **ethnicity, language, race, and region**.  
