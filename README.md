@@ -73,7 +73,7 @@ A fully interactive **Power BI dashboard** that:
 
 ## 🗂 Data Model & Metrics  
 
-![Data Model](healthcare_datamodelling.png)
+>![Data Model](healthcare_datamodelling.png)
 
 **Core metrics:**
 - **Members Eligible for Screening**
